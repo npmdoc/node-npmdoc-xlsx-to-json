@@ -1,9 +1,14 @@
-# api documentation for  [xlsx-to-json (v0.2.4)](https://github.com/DataGarage/node-xml-json)  [![npm package](https://img.shields.io/npm/v/npmdoc-xlsx-to-json.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-xlsx-to-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-xlsx-to-json.svg)](https://travis-ci.org/npmdoc/node-npmdoc-xlsx-to-json)
+# npmdoc-xlsx-to-json
+
+#### api documentation for  [xlsx-to-json (v0.2.4)](https://github.com/DataGarage/node-xml-json)  [![npm package](https://img.shields.io/npm/v/npmdoc-xlsx-to-json.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-xlsx-to-json) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-xlsx-to-json.svg)](https://travis-ci.org/npmdoc/node-npmdoc-xlsx-to-json)
+
 #### Convert xlsx to json
 
-[![NPM](https://nodei.co/npm/xlsx-to-json.png?downloads=true)](https://www.npmjs.com/package/xlsx-to-json)
+[![NPM](https://nodei.co/npm/xlsx-to-json.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/xlsx-to-json)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-xlsx-to-json/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-xlsx-to-json_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-xlsx-to-json/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-xlsx-to-json/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-xlsx-to-json/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-xlsx-to-json/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-xlsx-to-json/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-xlsx-to-json/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "chilijung",
-        "email": "chilijung@gmail.com",
         "url": "http://lijung.com/"
     },
     "bugs": {
@@ -44,13 +48,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "chilijung",
-            "email": "chilijung@gmail.com"
+            "name": "chilijung"
         }
     ],
     "name": "xlsx-to-json",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/DataGarage/node-xlsx-json.git"
@@ -58,19 +60,10 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.2.4"
+    "version": "0.2.4",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module xlsx-to-json](#apidoc.module.xlsx-to-json)
-
-
-
-# <a name="apidoc.module.xlsx-to-json"></a>[module xlsx-to-json](#apidoc.module.xlsx-to-json)
 
 
 
